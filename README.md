@@ -1,6 +1,7 @@
-# GPS_Navigator
+# GPS Navigator
 
 **Description**
+
 This is a GPS navigator specially designed for runners by which they will be guided
 to a predefined route through haptic feedback and navigation message displayed
 on LCD display.
@@ -31,6 +32,7 @@ covered distance by runner.
 6. Distance left to reach destination display
 7. Total covered distance display
 8. Start and stop navigation with push button
+
 
 **Interfacing GPS Module**
 This GPS module has 4 pins—VCC, GND, TX, RX. To feed the module 5V, we
