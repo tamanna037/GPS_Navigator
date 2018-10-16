@@ -33,9 +33,10 @@ covered distance by runner.
 7. Total covered distance display
 8. Start and stop navigation with push button
 
-![](Images) 
+![](1.png) 
 
 **Interfacing GPS Module**
+
 This GPS module has 4 pins—VCC, GND, TX, RX. To feed the module 5V, we
 have used the 7805 IC to get 5V from 9V battery. Here only TX pin is used to
 transfer data to ATMega32. This TX pin is connected with RX pin of MCU so that
