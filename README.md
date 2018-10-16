@@ -33,7 +33,7 @@ covered distance by runner.
 7. Total covered distance display
 8. Start and stop navigation with push button
 
-https://github.com/tamanna037/GPS_Navigator/issues/1#issue-370468222
+![](Images) 
 
 **Interfacing GPS Module**
 This GPS module has 4 pins—VCC, GND, TX, RX. To feed the module 5V, we
