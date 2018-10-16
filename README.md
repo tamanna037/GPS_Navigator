@@ -33,7 +33,14 @@ covered distance by runner.
 7. Total covered distance display
 8. Start and stop navigation with push button
 
+**Flow Chart**
+
 ![](1.png) 
+
+**Circuit Diagram**
+
+![](2.png) 
+
 
 **Interfacing GPS Module**
 
@@ -60,4 +67,5 @@ mentioned at the module’s datasheet to get the exact baud rate.
 
 
 **Youtube Link**
+
 https://www.youtube.com/watch?v=sashjo0Djfg
