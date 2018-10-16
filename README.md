@@ -1,5 +1,6 @@
 # GPS_Navigator
 
+**Description**
 This is a GPS navigator specially designed for runners by which they will be guided
 to a predefined route through haptic feedback and navigation message displayed
 on LCD display.
@@ -21,7 +22,7 @@ navigation message. Finally after completing the run, LCD will display total
 covered distance by runner.
 
 
-Features Implemented
+**Features Implemented**
 1. Navigation message display
 2. Turn indicating navigation by vibration motor
 3. Current location display
@@ -31,7 +32,7 @@ Features Implemented
 7. Total covered distance display
 8. Start and stop navigation with push button
 
-Interfacing GPS Module
+**Interfacing GPS Module**
 This GPS module has 4 pins—VCC, GND, TX, RX. To feed the module 5V, we
 have used the 7805 IC to get 5V from 9V battery. Here only TX pin is used to
 transfer data to ATMega32. This TX pin is connected with RX pin of MCU so that
@@ -54,5 +55,5 @@ efforts and time. We used hit and miss process, set different baud rates
 mentioned at the module’s datasheet to get the exact baud rate.
 
 
-Youtube Link
+**Youtube Link**
 https://www.youtube.com/watch?v=sashjo0Djfg
